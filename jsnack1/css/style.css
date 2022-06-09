@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#red-txt {
+    color: red;
+    padding: 20px;
+}
+
+#green-txt {
+    color: green;
+    padding: 20px;
+}
